@@ -1,0 +1,10 @@
+@media only screen and (min-device-width : 110px) and (max-device-width : 370px) {
+    body{
+        width:100% !important;
+        height:100%; 
+        margin:0; 
+        overflow-x: hidden !important;
+        display:block;
+        padding: 0;	
+    }
+}
